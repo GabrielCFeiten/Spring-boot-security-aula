@@ -1,5 +1,6 @@
 package com.cf.securityTest.models;
 
+import com.cf.securityTest.enums.UserRole;
 import jakarta.persistence.*;
 import lombok.Data;
 
